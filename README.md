@@ -4,8 +4,15 @@
 
 [![](https://img.shields.io/badge/discussion-participe-brightgreen?style=for-the-badge&logo=github)](https://github.com/r-earthengine/cheatsheet/discussions/new)
 
+
+## **Online template**
+- If you want contribute with the cheatsheet, please click [here](https://docs.google.com/presentation/d/1CSp3XYOSviJrgzKNDfrCmFu3VdUcnjquWEj2hPOkgxw/edit?usp=sharing)
+
 ## **Preview the first part**
 <img src='svg/rgee_Cheatsheet_page01.svg' aling = 'center'>
 
 ## **Preview the second part**
 <img src='svg/rgee_Cheatsheet_page02.svg' aling = 'center'>
+
+
+https://docs.google.com/presentation/d/1CSp3XYOSviJrgzKNDfrCmFu3VdUcnjquWEj2hPOkgxw/edit?usp=sharing
